@@ -6,3 +6,5 @@ and they should be responsive for mobile phones.
   In Mobile - Vertically aligned and full width
   
 Day 2-task:Create The Same Responsive Navigation
+
+Day 2-task:Create the same project you are free to add your elements
