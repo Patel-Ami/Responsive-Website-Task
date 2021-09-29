@@ -7,4 +7,4 @@ and they should be responsive for mobile phones.
   
 Day 2-task:Create The Same Responsive Navigation
 
-Day 2-task:Create the same project you are free to add your elements
+Day 3-task:Create the same project you are free to add your elements
